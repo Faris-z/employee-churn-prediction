@@ -1,0 +1,78 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# ── Jupyter Notebook ──────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ── Data files (do not commit raw data) ──────────────────────────────────────
+data/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# ── Model checkpoints ─────────────────────────────────────────────────────────
+*.pth
+*.pt
+*.ckpt
+*.joblib
+*.model
+models/
+checkpoints/
+
+# ── Kaggle credentials (NEVER commit this) ────────────────────────────────────
+kaggle.json
+.kaggle/
+
+# ── Environment variables ─────────────────────────────────────────────────────
+.env
+.env.local
+.env.*
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# ── IDE / editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Logs & outputs ────────────────────────────────────────────────────────────
+*.log
+logs/
+outputs/
+runs/
+
+# ── SHAP / matplotlib cache ───────────────────────────────────────────────────
+.shap_cache/
+__MACOSX/
