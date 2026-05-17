@@ -1,4 +1,4 @@
-# 🏢 Employee Churn Prediction — End-to-End ML Project
+#  Employee Churn Prediction — End-to-End ML Project
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -11,14 +11,14 @@
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Employee attrition costs companies **6–9 months of an employee's salary** to replace each person who leaves.  
 This project builds an end-to-end ML system that predicts which employees are at risk of churning, enabling HR teams to intervene early with targeted retention strategies.
 
 ---
 
-## 🧠 What This Project Covers
+##  What This Project Covers
 
 | Area | Techniques Used |
 |---|---|
@@ -34,7 +34,7 @@ This project builds an end-to-end ML system that predicts which employees are at
 
 ---
 
-## 📊 Results
+## Results
 
 | Model | ROC-AUC | F1-Score | Accuracy |
 |---|---|---|---|
@@ -48,7 +48,7 @@ This project builds an end-to-end ML system that predicts which employees are at
 
 ---
 
-## 🔑 Key Business Findings (from SHAP)
+##  Key Business Findings (from SHAP)
 
 1. **OverTime** is the single strongest driver of attrition
 2. **MonthlyIncome** — underpaid employees leave significantly more
@@ -58,7 +58,7 @@ This project builds an end-to-end ML system that predicts which employees are at
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 employee-churn-prediction/
@@ -128,7 +128,7 @@ Or download the dataset manually from:
 
 ---
 
-## 📓 Notebook Sections
+##  Notebook Sections
 
 | Section | Description |
 |---|---|
@@ -147,13 +147,10 @@ Or download the dataset manually from:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙋 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
