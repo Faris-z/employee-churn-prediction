@@ -71,7 +71,7 @@ employee-churn-prediction/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Option A — Google Colab (recommended, free GPU)
 
